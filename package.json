@@ -1,7 +1,7 @@
 {
   "name": "des-package-defaults",
   "version": "1.0.4",
-  "description": "Reusable package development defaults",
+  "description": "Npm package development template",
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack"
