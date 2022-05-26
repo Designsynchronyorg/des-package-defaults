@@ -1,5 +1,5 @@
 {
-  "name": "des-npm-package-defaults",
+  "name": "des-package-defaults",
   "version": "1.0.4",
   "description": "Reusable components for web development",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/designsynchrony/des-npm-package-defaults.git"
+    "url": "https://github.com/designsynchrony/des-package-defaults.git"
   },
   "keywords": [
     "utility",
@@ -28,7 +28,7 @@
     "webpack-cli": "^4.9.2"
   },
   "bugs": {
-    "url": "https://github.com/designsynchrony/des-npm-package-defaults/issues"
+    "url": "https://github.com/designsynchrony/des-package-defaults/issues"
   },
-  "homepage": "https://github.com/designsynchrony/des-npm-package-defaults"
+  "homepage": "https://github.com/designsynchrony/des-package-defaults"
 }
